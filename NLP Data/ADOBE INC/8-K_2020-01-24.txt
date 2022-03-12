@@ -1,0 +1,221 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+
+ 
+ 
+FORM
+8-K 
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+ 
+Date
+of Report (date of earliest event reported): January 22, 2020
+ 
+ADOBE INC. 
+(Exact
+name of Registrant as specified in its charter)
+ 
+
+
+Delaware 
+0-15175 
+77-0019522
+
+(State or other jurisdiction of
+ incorporation) 
+(Commission File Number) 
+(I.R.S. Employer Identification 
+No.)
+
+ 
+345 Park Avenue
+San Jose, California 95110-2704
+(Address of principal executive offices
+and zip code)
+ 
+Registrant’s telephone number, including
+area code: (408) 536-6000 
+ 
+Not Applicable
+(Former name or former address, if changed
+since last report)
+ 
+Check
+the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant
+under any of the following provisions (see General Instruction A.2. below):
+ 
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Securities registered
+pursuant to Section 12(b) of the Act:
+ 
+
+
+Title of Each Class 
+Trading Symbol 
+Name of Each Exchange on Which 
+Registered
+
+Common Stock, $0.0001 par value per share 
+ADBE 
+NASDAQ
+
+ 
+Indicate by check mark whether the Registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company      ¨
+If an emerging growth company, indicate by check mark if the
+Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act.  ¨
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+ 
+Item 1.01 Entry into a Material Definitive Agreement.
+ 
+On January 22, 2020, Adobe Inc. (“Adobe”)
+entered into an underwriting agreement (the “Underwriting Agreement”) with BofA Securities, Inc., J.P. Morgan Securities
+LLC, U.S. Bancorp Investments, Inc. and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein.
+The Underwriting Agreement provides for the issuance and sale by Adobe of $500,000,000 aggregate principal amount of the Company’s
+1.700% Notes due 2023 (the “2023 Notes”), (ii) $500,000,000 aggregate principal amount of the Company’s 1.900%
+Notes due 2025 (the “2025 Notes”), (iii) $850,000,000 aggregate principal amount of the Company’s 2.150% Notes
+due 2027 (the “2027 Notes”), and (iv) $1,300,000,000 aggregate principal amount of the Company’s 2.300% Notes
+due 2030 (the “2030 Notes,” and, together with the 2023 Notes, the 2025 Notes and the 2027 Notes, the “Notes”).
+ 
+The Notes were issued and sold in a public
+offering pursuant to a registration statement on Form S-3 (File No. 333-229364) (the “Registration Statement”)
+filed on January 25, 2019, a related preliminary prospectus supplement filed with the Securities and Exchange Commission on
+January 22, 2020, and a related final prospectus supplement filed on January 24, 2020. The Underwriting Agreement contains
+customary representations, warranties and agreements by Adobe, and customary closing conditions, indemnification rights and termination
+provisions.
+ 
+The net proceeds
+from the sale of the Notes will be approximately $3.1 billion after deducting underwriting discounts and estimated offering
+expenses. Adobe intends to use the net proceeds for general corporate purposes, which, among other things, will include
+repaying the $900.0 million in outstanding aggregate principal amount of Adobe’s 4.750% senior notes due 2020, plus
+accrued and unpaid interest thereon, and its $2.25 billion unsecured term loan.
+ 
+The above description of the Underwriting
+Agreement is qualified in its entirety by reference to the Underwriting Agreement, which is filed as Exhibit 1.1 to this Current
+Report on Form 8-K and is incorporated herein by reference.
+ 
+Item 8.01 Other Events.
+ 
+Hogan Lovells US LLP, counsel to Adobe,
+has issued an opinion to Adobe dated January 22, 2020 regarding the legality of the Notes. A copy of the opinion is filed
+as Exhibit 5.1 hereto and incorporated by reference herein.
+ 
+Forward-Looking Statements Disclosure
+ 
+This Current Report on Form 8-K may
+include forward-looking statements, within the meaning of the Private Securities Litigation Reform Act of 1995, that are subject
+to risks, uncertainties and other factors, including risks and uncertainties related to Adobe’s use of the proceeds from
+the Notes. All statements other than statements of historical fact are statements that could be deemed forward-looking statements,
+including any statements of expectation or belief and any statements of assumptions underlying any of the foregoing. These risks,
+uncertainties and other factors, and the general risks associated with Adobe’s business, could cause actual results to differ
+materially from those referred to in the forward-looking statements. The reader is cautioned not to rely on these forward-looking
+statements. All forward-looking statements are based on information currently available to Adobe and are qualified in their entirety
+by this cautionary statement. For a discussion of these and other risks and uncertainties, please refer to Adobe’s filings
+with the Securities and Exchange Commission. Except as required by law, Adobe does not assume any obligation to update any such
+forward-looking statements.
+ 
+
+
+ 
+ 
+
+ 
+Item 9.01 Financial Statements and Exhibits.
+ 
+(d) Exhibits.
+ 
+
+
+Exhibit No. 
+Description
+
+  
+ 
+
+1.1 
+Underwriting Agreement dated January 22, 2020, by and among Adobe Inc. and BofA Securities, Inc., J.P. Morgan Securities LLC, U.S. Bancorp Investments, Inc. and Wells Fargo Securities, LLC, as representatives of the several underwriters named therein
+
+  
+ 
+
+5.1 
+Opinion of Hogan Lovells US LLP
+
+  
+ 
+
+23.1 
+Consent of Hogan Lovells US LLP (included in Exhibit 5.1)
+
+  
+ 
+
+104 
+Cover Page Interactive Data File (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+
+ 
+
+
+ 
+ 
+
+ 
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act
+of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+ 
+ADOBE INC. 
+
+ 
+ 
+
+Date: January 24, 2020
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+By:   
+/s/ JOHN MURPHY
+
+ 
+ 
+John Murphy
+Executive Vice President and Chief Financial Officer
+
+ 
+
+
+ 
+
+
+

@@ -1,0 +1,487 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549 Form 8-K Current Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported):  June 23, 2020  Pegasystems Inc.  (Exact name of registrant as specified in its charter) Commission File Number:  1-11859
+
+
+
+
+
+
+ Massachusetts
+ 
+  04-2787865 
+
+ (State or other jurisdiction of
+ 
+ (IRS Employer
+
+ incorporation)
+ 
+ Identification No.) 1 Rogers Street, Cambridge, Massachusetts 02142 (Address of principal executive offices, including zip code) 617-374-9600 (Registrant’s telephone number, including area code) Not Applicable (Former name or former address, if changed since last report) Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+
+ ☐ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+
+ ☐ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+
+ ☐ 
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+
+ ☐ 
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+ 
+ 
+
+ 
+ 
+ Common stock, $.01 par value per share
+ 
+ PEGA
+ 
+ Nasdaq Global Select Market
+ 
+  Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐       
+ 
+
+
+
+
+Item 1.01. 
+Entry into a Material Definitive Agreement   As described in Item 5.07 below, on June 23, 2020, the stockholders of Pegasystems Inc. (the “Company”) approved the amended and restated Pegasystems Inc. 2004 Long-Term Incentive Plan (the “Plan”). A description of the material terms and conditions of the Plan is provided in Item 3 of the Company’s definitive proxy statement for the 2020 Annual Meeting of Shareholders, which was filed with the Securities and Exchange Commission (the “Commission”) on April 29, 2020 and is incorporated herein by reference.  The foregoing description of the Plan is qualified in its entirety by reference to a full and complete copy of the Plan, which is filed as Exhibit 10.1 to this Current Report on Form 8-K and is incorporated herein by reference.  Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.  (e)  The information set forth in Item 1.01 above is incorporated herein by reference.  
+
+
+Item 5.07. 
+Submission of Matters to a Vote of Security Holders   The Company’s 2020 Annual Meeting of Stockholders was held on June 23, 2020. At the Annual Meeting, the following items were presented to the stockholders of the Company for their approval, and the stockholders voted as follows:  1. To elect the eight nominees named in the Company’s definitive proxy statement to serve on the Company’s Board of Directors until its 2021 Annual Meeting of Stockholders and until their successors are duly elected and qualified. Each nominee for director was elected by a vote of stockholders as follows:   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+                          
+ 
+ Peter  Gyenes  
+ 
+ Ronald  Hovsepian  
+ 
+ Richard  Jones  
+ 
+ Christopher  Lafond  
+ 
+ Dianne  Ledingham  
+ 
+ Sharon  Rowlands  
+ 
+ Alan  Trefler  
+ 
+ Larry  Weber   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+     FOR    
+ 
+ 67,536,891  
+ 
+ 71,457,520  
+ 
+ 71,068,823  
+ 
+ 71,748,656  
+ 
+ 71,711,926  
+ 
+ 71,693,115  
+ 
+ 71,866,938  
+ 
+ 71,629,071   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+     AGAINST    
+ 
+ 4,728,716  
+ 
+ 808,087  
+ 
+ 1,196,784  
+ 
+ 516,751  
+ 
+ 553,440  
+ 
+ 572,251  
+ 
+ 355,215  
+ 
+ 593,333   
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+     ABSTAIN    
+ 
+ 3,981  
+ 
+ 3,981  
+ 
+ 3,981  
+ 
+ 4,181  
+ 
+ 4,222  
+ 
+ 4,222  
+ 
+ 47,435  
+ 
+ 47,184   
+
+     NON    VOTES    
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958  
+ 
+ 4,013,958     2. To approve, by a non-binding advisory vote, the compensation of the Company’s named executive officers. The compensation of the Company’s named executive officers was approved on a non-binding advisory basis by a vote of stockholders as follows: 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+ Executive Compensation  
+ 
+  
+ 
+   
+
+     FOR    
+ 
+   70,150,570    
+  
+
+     AGAINST    
+ 
+   2,093,443    
+  
+
+     ABSTAIN    
+ 
+   25,575    
+  
+
+     NON VOTES    
+ 
+   4,013,958    
+     
+
+ 
+
+ 3. To approve the amended and restated Pegasystems Inc. 2004 Long-Term Incentive Plan. The proposal was approved by a vote of stockholders as follows: 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+  Long-Term Incentive Plan  
+ 
+  
+ 
+   
+
+     FOR    
+ 
+   58,666,366    
+  
+
+     AGAINST    
+ 
+   13,583,777    
+  
+
+     ABSTAIN    
+ 
+   19,445    
+  
+
+     NON VOTES      
+ 
+   4,013,958  
+    4. To consider, if properly presented at the meeting, a stockholder proposal regarding simple majority voting. The stockholders did not approve the stockholder proposal regarding simple majority voting by a vote as follows: 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+ Stockholder Proposal Regarding SimpleMajority Voting  
+ 
+  
+ 
+   
+
+     FOR    
+ 
+   4,474,779    
+  
+
+     AGAINST    
+ 
+   67,698,656    
+  
+
+     ABSTAIN    
+ 
+   96,153    
+  
+
+     NON VOTES    
+ 
+   4,013,958    
+    5. To ratify the selection by the Audit Committee of the Company’s Board of Directors of Deloitte & Touche LLP as the Company’s independent registered public accounting firm for the year ending December 31, 2020. The proposal was approved by a vote of stockholders as follows: 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+ Auditors  
+ 
+  
+ 
+   
+
+     FOR    
+ 
+   75,407,369    
+  
+
+     AGAINST    
+ 
+   862,831    
+  
+
+     ABSTAIN    
+ 
+   13,346    
+    
+
+
+Item 9.01. 
+Financial Statements and Exhibits   
+
+
+(d) 
+Exhibits  
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 10.1  
+ 
+ 
+  Pegasystems Inc. 2004 Long-Term Incentive Plan (Filed as Appendix A with the Registrant’s 2020 Proxy Statement, filed April 29, 2020 and incorporated herein by reference).    
+
+ 
+ 
+ 
+ 
+  
+
+ 
+ 104 
+ 
+ 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document)     
+
+ 
+
+ Signature(s)  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+  
+ 
+  
+ 
+ Pegasystems Inc.   
+
+ Date: June 24, 2020  
+ 
+  
+ 
+  
+ 
+   
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+  
+ 
+ By:       
+ 
+ /s/ Matthew J. Cushing                                                                                              
+
+  
+ 
+  
+ 
+  
+ 
+ Matthew J. Cushing   
+
+  
+ 
+  
+ 
+  
+ 
+ Vice President, Chief Commercial Officer, General Counsel and Secretary      
+

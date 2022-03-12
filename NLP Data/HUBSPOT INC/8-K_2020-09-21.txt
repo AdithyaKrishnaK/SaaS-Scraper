@@ -1,0 +1,154 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, D.C. 20549      FORM 8-K      CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): September 15, 2020       HUBSPOT, INC.  (Exact name of Registrant as Specified in Its Charter)       
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-36680
+ 
+20-2632791
+
+ (State or Other Jurisdiction of Incorporation)
+ 
+ (Commission File Number)
+ 
+ (IRS Employer Identification No.)  
+
+
+
+
+
+
+ 25 First Street, Cambridge, Massachusetts
+ 
+02141
+
+(Address of Principal Executive Offices)
+ 
+(Zip Code) Registrant’s Telephone Number, Including Area Code: (888) 482-7768 Not Applicable (Former Name or Former Address, if Changed Since Last Report)      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+
+Common Stock, Par Value $0.001 per share
+ 
+HUBS
+ 
+New York Stock Exchange Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter). Emerging growth company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐      
+ 
+
+
+
+
+Item 5.03.
+ Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.  On September 15, 2020, based on the recommendation of the nominating and corporate governance committee of the board of directors (the “Board”) of HubSpot, Inc. (the “Company”), the Board approved an amendment to the Company’s amended and restated bylaws (the “Amendment”), effective immediately. The Amendment (1) designates the Court of Chancery of the State of Delaware as the exclusive jurisdiction for any state law claims for (i) any derivative action, (ii) any claim of breach of fiduciary duty, (iii) any claim against a current or former director, officer, employee or stockholder, and (iv) any action against the Company governed by the internal affairs doctrine; and (2) designates the United States District Court for the District of Massachusetts as the exclusive jurisdiction for any litigation arising under the Securities Act of 1933, as the Company’s headquarters are located in Cambridge, Massachusetts. In addition, the Amendment provides that any person or entity purchasing or otherwise acquiring any interest in shares of the Company’s capital stock is deemed to have notice of and consented to the foregoing provisions. The Board approved the Amendment in order to reduce any potential expenses that the Company may incur in connection with any of the specified types of actions or proceedings if the Company was required to defend any such potential actions or proceedings in multiple jurisdictions and in parallel proceedings in federal and state courts simultaneously.  A copy of the Amendment is filed as Exhibit 3.1 to this Current Report on Form 8-K and is incorporated herein by reference, and the foregoing summary is qualified in its entirety by reference to the full text of the Amendment.   
+
+
+Item 9.01.
+ Financial Statements and Exhibits  (d) Exhibits   
+
+
+
+
+
+
+ ExhibitNo.
+  
+ Description of Exhibit
+
+
+
+
+3.1
+  
+Amendment to the Amended and Restated By-laws of HubSpot, Inc., dated September 15, 2020. 
+
+
+
+
+104
+  
+Cover Page Interactive Data File (embedded within the inline XBRL document).
+
+
+ 
+
+
+SIGNATURES  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+HubSpot, Inc.
+
+
+
+
+
+
+Date: September 21, 2020
+ 
+
+ 
+By:
+ 
+ /s/ John P. Kelleher
+
+
+ 
+
+ 
+Name:
+ 
+John P. Kelleher
+
+
+ 
+
+ 
+Title:
+ 
+General Counsel
+
+

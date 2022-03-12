@@ -1,0 +1,168 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549      FORM 8-K      CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 16, 2021       Twilio Inc.  (Exact name of registrant as specified in its charter)       
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-37806
+ 
+26-2574840
+
+ (State or other Jurisdiction of Incorporation)
+ 
+ (Commission File Number)
+ 
+ (IRS Employer Identification No.) 101 Spear Street, First Floor San Francisco, California 94105 (Address of Principal Executive Offices) (Zip Code) (415) 390-2337 Registrant’s telephone number, including area code Not Applicable (Former name or former address if changed since last report.)      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:  
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading symbol(s)
+ 
+ Name of each exchange on which registered
+
+Class A Common Stock, par value $0.001 per share
+ 
+TWLO
+ 
+The New York Stock Exchange Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging Growth Company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐      
+ 
+
+
+
+
+Item 5.02
+ Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.  (b)  On February 16, 2021, Karyn Smith, General Counsel of Twilio Inc. (the “Company”), informed the Company of her intent to resign from her position. Ms. Smith intends to continue to serve until her successor is identified and has moved into the role.  Item 8.01. Other Events.  Underwritten Offering of Common Stock  On February 18, 2021, the Company entered into an underwriting agreement (the “Underwriting Agreement”) with Morgan Stanley & Co. LLC and J.P. Morgan Securities LLC, as representatives of the several underwriters named therein (collectively, the “Underwriters”), relating to the offering, issuance and sale of 3,750,000 shares of its Class A common stock, par value $0.001 per share (“Class A Common Stock”). The Underwriters agreed to purchase the shares of Class A Common Stock pursuant to the Underwriting Agreement at a price of $409.60 per share. Under the terms of the Underwriting Agreement, the Company also granted the Underwriters an option exercisable for 30 days to purchase up to an additional 562,500 shares of Class A Common Stock at the same price per share. The net proceeds to the Company from the offering are expected to be approximately $1.54 billion, or approximately $1.77 billion if the Underwriters exercise in full their option to purchase additional shares, in each case after deducting estimated offering expenses payable by the Company. The offering is expected to close on February 23, 2021, subject to customary closing conditions.  The Underwriting Agreement contains customary representations, warranties and agreements by the Company, customary conditions to closing, indemnification obligations of the Company and the Underwriters, including for liabilities under the Securities Act of 1933, as amended, other obligations of the parties and termination provisions. The representations, warranties and covenants contained in the Underwriting Agreement were made only for purposes of such agreement and as of specific dates, were solely for the benefit of the parties to such agreement and may be subject to limitations agreed upon by the contracting parties, including being qualified by confidential disclosures exchanged between the parties in connection with the execution of the Underwriting Agreement.  The offering is being made pursuant to the Company’s registration statement on Form S-3 (File No. 333- 231794) and an accompanying prospectus previously filed with the Securities and Exchange Commission (“SEC”) and a preliminary and final prospectus supplement thereunder. The Underwriting Agreement is filed as Exhibit 1.1 hereto, and the description of the material terms of the Underwriting Agreement is qualified in its entirety by reference to such exhibit. A copy of the opinion of Cooley LLP relating to the legality of the issuance and sale of the shares in the offering is attached as Exhibit 5.1 hereto.   
+
+
+Item 9.01
+ Financial Statements and Exhibits.   
+
+
+
+
+
+
+ Exhibit     No.    
+  
+ Description
+
+
+
+
+  1.1
+  
+Underwriting Agreement, dated as of February 18, 2021, by and between Twilio Inc., Morgan Stanley & Co. LLC and J.P. Morgan Securities LLC. 
+
+
+
+
+  5.1
+  
+Opinion of Cooley LLP. 
+
+
+
+
+23.1
+  
+Consent of Cooley LLP (contained in Exhibit 5.1). 
+
+
+
+
+104
+  
+Cover Page Interactive Data File (embedded within the Inline XBRL document).
+
+
+ 
+
+
+SIGNATURES  Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+TWILIO INC.
+
+
+
+
+
+
+Dated: February 22, 2021
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+By:
+ 
+ /s/ Khozema Shipchandler
+
+
+ 
+
+ 
+
+ 
+Khozema Shipchandler
+
+
+ 
+
+ 
+
+ 
+Chief Financial Officer
+
+

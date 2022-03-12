@@ -1,0 +1,165 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549      FORM 8-K      CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): December 14, 2021       UNITY SOFTWARE INC.  (Exact name of registrant as specified in its charter)       
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-39497
+ 
+27-0334803
+
+(State or other jurisdictionof incorporation)
+ 
+(CommissionFile Number)
+ 
+(IRS EmployerIdentification No.)  
+
+
+
+
+
+
+ 30 3rd Street San Francisco, California
+ 
+94103-3104
+
+(Address of principal executive offices)
+ 
+(Zip code) Registrant’s telephone number, including area code: (415) 539-3162      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligations of the registrant under any of the following provisions:  
+
+
+ 
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+
+ 
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+ 
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+ 
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ TradingSymbol
+ 
+ Name of each exchangeon which registered
+
+Common Stock, $0.000005 par value per share
+ 
+U
+ 
+The New York Stock Exchange Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company ☒ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐      
+ 
+
+
+
+
+Item 8.01
+ Other Events.  On December 14, 2021, Unity Software Inc. (the “Company”) filed a prospectus supplement (the “Prospectus Supplement”) covering the offer and sale from time to time of up to 3,468,362 shares of the Company’s common stock (the “Shares”) held by Weta Digital Limited (“Weta”), the selling stockholder identified therein. The Shares were issued as part of a transaction to purchase certain assets of Weta pursuant to an Asset Purchase Agreement by and among the Company, Weta, The Film Property Trust, Weta Holdings LLC, Joseph Letteri, and Weta Principal Fund LLC. The legal opinion and consent of the Company’s counsel, Cooley LLP, regarding the legality of the Shares covered by the Prospectus Supplement are attached hereto as Exhibit 5.1 and Exhibit 23.1, respectively, and are incorporated herein by reference.   
+
+
+Item 9.01
+ Financial Statements and Exhibits.  (d) Exhibits   
+
+
+
+
+
+
+ExhibitNo.
+  
+Description
+
+
+
+
+5.1
+  
+Opinion of Cooley LLP 
+
+
+
+
+23.1
+  
+Consent of Cooley LLP (included in Exhibit 5.1) 
+
+
+
+
+104
+  
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+ 
+
+
+SIGNATURES  Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+Unity Software Inc.
+
+
+
+
+
+
+Date: December 14, 2021
+ 
+
+ 
+By:
+ 
+ /s/ Luis Vioso
+
+
+ 
+
+ 
+
+ 
+ Luis Vioso
+
+
+ 
+
+ 
+
+ 
+ Chief Financial Officer
+
+

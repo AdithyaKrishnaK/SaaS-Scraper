@@ -1,0 +1,91 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549      FORM 8-K      CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 December 1, 2020 (November 30, 2020) Date of Report (date of earliest event reported)       salesforce.com, inc.  (Exact name of Registrant as specified in its charter)       
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-32224
+ 
+94-3320693
+
+ (State or other jurisdiction of incorporation)
+ 
+ (Commission File Number)
+ 
+ (IRS Employer Identification No.) Salesforce Tower 415 Mission Street, 3rd Fl San Francisco, CA 94105 (Address of principal executive offices) Registrant’s telephone number, including area code: (415) 901-7000 N/A (Former name or former address, if changed since last report)      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2. below):  
+
+
+☐
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Exchange Act:  
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+ 
+CRM
+ 
+ New York Stock Exchange, Inc.  Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐      
+ 
+
+
+
+
+Item 5.02
+ Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers  On December 1, 2020, salesforce.com, inc. (the “Company”) announced that Mark Hawkins will retire from his office as President and Chief Financial Officer of the Company effective at the close of business on January 31, 2021. The Company announced that Mr. Hawkins has agreed to continue to serve the Company as an employee from February 1, 2021 through October 31, 2021 (the “Transition Period”).  The Company has entered into an agreement (the “Transition Agreement”) with Mr. Hawkins setting forth the terms of Mr. Hawkins’ transition arrangements. Mr. Hawkins will be employed on a full-time basis through April 30, 2021 and will thereafter be reasonably available to the Company during the remainder of the Transition Period. The Transition Period may be terminated earlier by the Company for cause, as defined in the Transition Agreement, by Mr. Hawkins for any reason upon ten days’ written notice, and the Transition Agreement provides for automatic termination upon Mr. Hawkins’ acceptance of employment or other full-time services with a third party. Through April 30, 2021, Mr. Hawkins’ cash compensation will be composed of salary at his current rate. For the remainder of the Transition Period, his cash compensation will be calculated based on a rate of $58,240 per year. During the Transition Period, previously granted equity awards will continue to vest in accordance with their terms. The Transition Agreement provides for a customary release of claims by Mr. Hawkins and reaffirmation of his obligations under an employee inventions and proprietary rights assignment agreement.  On December 1, 2020, the Company announced that Amy Weaver, age 53, had been appointed as President and Chief Financial Officer of the Company effective February 1, 2021. Ms. Weaver has served as the Company’s President and Chief Legal Officer since January 2020. Prior to that, she served as President, Legal & Corporate Affairs and General Counsel of the Company from February 2017 to January 2020, Executive Vice President and General Counsel of the Company from July 2015 to February 2017 and Senior Vice President and General Counsel of the Company from October 2013 to July 2015. Prior to joining Salesforce, Ms. Weaver served as Executive Vice President and General Counsel at Univar Inc. from December 2010 to June 2013. Previously, Ms. Weaver was Senior Vice President and Deputy General Counsel at Expedia, Inc. and before that, she practiced law at Cravath, Swaine & Moore LLP and Perkins Coie LLP. Ms. Weaver also served as a clerk on the U.S. Court of Appeals, Ninth Circuit and as a legislative assistant to a member of the Hong Kong Legislative Council. Ms. Weaver holds a B.A. in Political Science from Wellesley College and a J.D. from Harvard Law School.  There are no arrangements or understandings between Ms. Weaver and any other persons pursuant to which she was selected as an officer or director, she has no family relationships with any of the Company’s directors or executive officers, and she has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K. 
+
+ 
+
+
+SIGNATURE  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+salesforce.com, inc.
+
+
+
+
+By:
+ 
+ /s/ Brent Hyder
+
+Name:
+ 
+Brent Hyder
+
+Title:
+ 
+President and Chief People Officer
+ Dated: December 1, 2020 
+

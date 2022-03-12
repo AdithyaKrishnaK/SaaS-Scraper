@@ -1,0 +1,151 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+ 
+Date of Report (Date of earliest event reported):
+January 19, 2022
+ 
+VARONIS SYSTEMS, INC.
+(Exact Name of Registrant as Specified in its Charter)
+ 
+
+
+Delaware
+ 
+001-36324
+ 
+57-1222280
+
+(State or Other Jurisdiction of Incorporation)
+ 
+(Commission File Number)
+ 
+(IRS Employer Identification No.)
+
+ 
+
+
+
+1250 Broadway, 29th Floor 
+New York, NY
+ 10001
+
+(Address of Principal Executive Offices)
+(Zip Code)
+
+ 
+(877) 292-8767
+(Registrant’s telephone number, including area code)
+ 
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended
+to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+
+Common Stock, par value $0.001 per share
+VRNS
+The NASDAQ Stock Market LLC
+
+ 
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange
+Act of 1934 (§240.12b-2 of this chapter).
+ 
+Emerging growth company	☐
+ 
+If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant
+to Section 13(a) of the Exchange Act. ☐
+ 
+
+ 
+ 
+
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment
+of Certain Officers; Compensatory Arrangements of Certain Officers.
+ 
+On January 19, 2022, the Board of Directors
+(the “Board”) of Varonis Systems, Inc. (the “Company”) increased the number of directors on the Board from
+9 to 11 and elected Carlos Aued as a Class II director and Avrohom J. Kess as a Class III director to
+serve until their respective successor is elected and has qualified. Mr. Kess was also appointed
+as a member of the Compensation Committee of the Board.
+ 
+Mr.
+Aued served as Leader of Systems Architect/Systems Engineers in a number of verticals, including healthcare, retail, financial, education
+and public sector over the last 25 years at Cisco Systems, Inc. Prior to that, Mr. Aued held pre-sales technology leadership positions
+with a number of companies including Micom, Unisys and BayNetworks.
+ 
+Mr.
+Kess has been Vice Chairman and Chief Legal Officer of The Travelers Companies, Inc. since December 2016. Prior to that, Mr. Kess was
+a partner, member of the Corporate Department and Head of the Public Company Advisory Practice at the law firm of Simpson Thacher &
+Bartlett LLP, which he joined in 1995.
+ 
+Messrs.
+Aued and Kess will receive compensation in accordance with Company’s current director compensation program, which was disclosed
+in the Company’s proxy statement that was filed with the Securities and Exchange Commission on April 12, 2021.
+ 
+Mr.
+Aued’s daughter, Alexa Kusovitsky, has been employed by the Company since 2014 and her total compensation in 2021 was approximately
+$163,000. 
+ 
+
+
+ 
+ 
+
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+ 
+
+
+ VARONIS SYSTEMS, INC.
+
+  
+ 
+
+  
+ 
+
+  
+ 
+
+Dated: January 19, 2022By: 
+/s/ Guy Melamed
+
+ Name: 
+Guy Melamed
+
+ Title: 
+Chief Financial Officer and Chief Operating Officer
+
+ 
+
+

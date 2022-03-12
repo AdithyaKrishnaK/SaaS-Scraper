@@ -1,0 +1,258 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549 
+ 
+FORM 8-K
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported): January 6, 2021
+ 
+HUBSPOT, INC.
+(Exact name of Registrant as Specified in Its Charter)
+ 
+ 
+
+
+
+
+
+Delaware
+
+001-36680
+
+20-2632791
+
+
+
+
+(State or Other Jurisdiction
+of Incorporation)
+
+(Commission File Number)
+
+(IRS Employer
+Identification No.)
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+25 First Street
+Cambridge, Massachusetts
+
+ 
+
+02141
+
+
+
+(Address of Principal Executive Offices)
+
+ 
+
+(Zip Code)
+
+
+Registrant’s Telephone Number, Including Area Code: (888) 482-7768
+Not Applicable
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+
+
+
+
+☐
+
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+
+
+☐
+
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+
+
+☐
+
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+
+
+Securities registered pursuant to Section 12(b) of the Act:
+ 
+
+
+
+
+Title of each class
+
+ 
+
+Trading
+Symbol(s)
+
+ 
+
+Name of each exchange on which registered
+
+
+
+Common Stock, Par Value $0.001 per share
+
+ 
+
+HUBS
+
+ 
+
+New York Stock Exchange
+
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§ 230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§ 240.12b-2 of this chapter).
+Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+ 
+ 
+ 
+ 
+
+ 
+ 
+Item 5.02.  Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(b) Resignation of Director
+On January 6, 2021, Michael Simon resigned from his position as a member of the Board of Directors (the “Board”) of HubSpot, Inc. (the “Company”) and as chair of the compensation committee of the Board, effective January 11, 2021. Mr. Simon’s resignation was not due to any disagreement with the Company on any matter relating to the registrant’s operations, policies, or practices.
+(d) Election of Director
+On January 6, 2021, the Board unanimously approved the appointment of Nick Caldwell as a class III director of the Company to fill the vacancy created by Mr. Simon’s resignation. The effective date of Mr. Caldwell’s appointment was January 11, 2021.  The term of the Company’s class III directors, including Mr. Caldwell, expires on the date of the Company’s annual meeting of stockholders to be held in 2023 or upon the election and qualification of successor directors. Mr. Caldwell was also appointed to serve on the compensation committee of the Board.
+Mr. Caldwell’s compensation will be consistent with that provided to all of the Company’s non-employee directors pursuant to the Company’s Non-Employee Director Compensation Policy, which was filed as Exhibit 10.13 to the Company’s Form 10-K for the year ended December 31, 2019. In addition, the Company entered into an indemnification agreement with Mr. Caldwell in connection with his appointment to the Board, which is in substantially the same form as that entered into with the other directors of the Company.
+There is no arrangement or understanding pursuant to which Mr. Caldwell was appointed to the Board. There are no family relationships between Mr. Caldwell and any director or executive officer of the Company, and Mr. Caldwell has no direct or indirect material interest in any transaction required to be disclosed pursuant to Item 404(a) of Regulation S-K.
+Item 7.01  Regulation FD Disclosure
+On January 12, 2021, the Company issued a press release announcing Mr. Caldwell’s appointment to the Board as discussed in Item 5.02(d) of this Current Report on Form 8-K. The full text of this press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein. The information in this Item 7.01 and Exhibit 99.1 attached hereto is intended to be furnished and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as expressly set forth by specific reference to such filing.
+Item 9.01 Financial Statements and Exhibits.
+ 
+
+
+
+
+
+
+
+
+(d)
+
+Exhibits
+
+
+ 
+
+
+
+
+
+
+
+
+
+ExhibitNo.
+
+  
+
+Description
+
+
+
+ 
+
+ 
+
+
+
+99.1
+
+  
+
+Press Release of HubSpot, Inc. dated January 12, 2021, furnished herewith.
+
+
+
+104
+
+ 
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+
+ 
+ 
+
+ 
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+ 
+
+
+
+
+ 
+
+ 
+
+HubSpot, Inc.
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+January 12, 2021
+
+ 
+
+By:
+
+/s/ John Kelleher
+
+
+
+ 
+
+ 
+
+ 
+
+Name: John Kelleher
+
+
+
+ 
+
+ 
+
+ 
+
+Title: General Counsel
+
+
+ 
+ 

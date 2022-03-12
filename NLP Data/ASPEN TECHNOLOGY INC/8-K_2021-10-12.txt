@@ -1,0 +1,290 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549      FORM 8-K      CURRENT REPORT Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): October 10, 2021       ASPEN TECHNOLOGY, INC.  (Exact name of registrant as specified in its charter)       
+
+
+
+
+
+
+
+
+Delaware
+ 
+001-34630
+ 
+04-2739697
+
+ (State or other Jurisdiction of Incorporation)
+ 
+ (Commission File No.)
+ 
+ (I.R.S. Employer Identification No.) 20 Crosby Drive Bedford, Massachusetts 01730 (Address of principal executive offices, including Zip Code) (781) 221-6400 (Registrant’s telephone number, including area code) Not applicable (Former Name or Former Address, if Changed Since Last Report)      Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2):  
+
+
+☒
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)  
+
+
+☐
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))  
+
+
+☐
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:  
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+
+Common Stock, par value $0.10 per share
+ 
+AZPN
+ 
+NASDAQ Global Select Market Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐      
+ 
+
+
+
+
+Item 1.01    Entry
+ into a Material Definitive Agreement.  Transaction Agreement and Plan of Merger  On October 10, 2021, Aspen Technology, Inc. (“AspenTech”), Emerson Electric Co. (“Emerson”), EMR Worldwide Inc., a wholly owned subsidiary of Emerson (“Emerson Sub”), Emersub CX, Inc., a wholly owned subsidiary of Emerson (“New AspenTech”), and Emersub CXI, Inc., a direct wholly owned subsidiary of New AspenTech (“Merger Subsidiary”), entered into a Transaction Agreement and Plan of Merger (the “Transaction Agreement”), pursuant to which, among other things, (i) Emerson will contribute $6,014,000,000 in cash (the “Emerson Cash Contribution”) to New AspenTech in exchange for New AspenTech common stock, (ii) Emerson Sub will contribute the Echo Business Shares (as defined in the Transaction Agreement) to New AspenTech in exchange for New AspenTech common stock, (iii) Merger Subsidiary will merge with and into AspenTech, with AspenTech as the surviving corporation (the “Surviving Corporation”) and becoming a direct wholly owned subsidiary of New AspenTech (the “Merger”) and (iv) as a result of the Merger, each issued and outstanding share of AspenTech common stock (subject to certain exceptions) will be converted into the right to receive 0.42 shares of New AspenTech common stock and a per share cash consideration, calculated by dividing the Emerson Cash Contribution by the number of outstanding shares of AspenTech common stock as of the closing of the transactions contemplated by the Transaction Agreement (the “Closing”) on a fully diluted basis, which per share cash consideration amount is currently estimated to be approximately $87 per share of AspenTech common stock (collectively, and together with all the other transactions contemplated by the Transaction Agreement, the “Transactions”).  Immediately following the Closing, Emerson and Emerson Sub will collectively own 55% of the outstanding New AspenTech common stock (on a fully diluted basis) and former AspenTech stockholders will own the remaining outstanding New AspenTech common stock. Following the Closing, New AspenTech and its subsidiaries will operate under the name “Aspen Technology, Inc.”  The Transaction Agreement includes customary representations, warranties and covenants of the parties. Among other things and subject to certain exceptions, until the earlier of the termination of the Transaction Agreement or the Closing, AspenTech and Emerson have agreed to use their reasonable best efforts to conduct their respective businesses (in Emerson’s case, the contributed business) in the ordinary course consistent with past practice. The Transaction Agreement also prohibits AspenTech’s solicitation of proposals relating to alternative transactions and restricts AspenTech’s ability to furnish information to, or participate in any discussions or negotiations with, any third party with respect to any such transaction, subject to certain limited exceptions.  The obligation of the parties to consummate the Transactions is subject to customary conditions, including, among other things, (i) the affirmative vote of the holders of a majority of the outstanding AspenTech common stock, (ii) the approvals under applicable regulatory and competition laws, including the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (in each case, without the requirement to take actions that would be reasonably expected to materially and adversely affect Emerson and its subsidiaries or New AspenTech and its subsidiaries after giving effect of the Transactions) and (iii) the effectiveness of the registration statement on Form S-4 to be filed by New AspenTech with the Securities and Exchange Commission and the approval of the listing on Nasdaq of the shares of New AspenTech common stock to be issued in the Transactions.  The Transaction Agreement contains certain termination rights for each of Emerson and AspenTech, including the right of each party to terminate the Transaction Agreement if the Transactions have not been consummated by October 10, 2022. Under the Transaction Agreement, AspenTech is required to pay a termination fee in the amount of $325,000,000 to Emerson in certain events described in the Transaction Agreement, including if Emerson terminates the Transaction Agreement in the event AspenTech’s board of directors changes its recommendation that AspenTech’s stockholders approve the Transaction Agreement.  Ancillary Agreements  At the Closing, (i) New AspenTech, Emerson and Emerson Sub will enter into a stockholders agreement (the “Stockholders Agreement”), (ii) New AspenTech and Emerson Sub will enter into a registration rights agreement, and (iii) New AspenTech and Emerson will enter into a tax matters agreement and a transition services agreement. The forms of these agreements 
+
+ 
+
+
+
+as well as forms of the organizational documents of New AspenTech and the Surviving Corporation to be in effect as of the Closing are each attached as an exhibit to the Transaction Agreement. The Transaction Agreement also requires Emerson and AspenTech to negotiate in good faith the terms and conditions of a commercial agreement, substantially on the terms set forth in a term sheet attached to the Transaction Agreement.  The Stockholders Agreement will provide, among other things, that:   
+
+
+ 
+•
+ 
+ Board Representation. Immediately following the Closing, the New AspenTech board of directors will consist of nine directors, consisting of (i) five directors designated by Emerson Sub, one of whom will be Jill D. Smith, the current chair of the AspenTech board of directors and who will also be the chair of the New AspenTech board of directors, and three of whom will be designated by Emerson Sub following consultation with Ms. Smith (and it is Emerson Sub’s expectation as of October 10, 2021, that these three individuals will be either current members of the AspenTech board of directors or independent directors), (ii) three directors designated by AspenTech and (iii) the Chief Executive Officer of AspenTech immediately prior to the Closing. Following the Closing, Emerson Sub will have the right to designate a number of directors to the New AspenTech board of directors that is proportionate to its ownership of outstanding shares of New AspenTech common stock at such time; provided that Emerson Sub will have the right to designate at least a majority of such directors for so long as Emerson beneficially owns more than 40% of the outstanding shares of New AspenTech common stock and further provided that if Emerson beneficially owns between 10% and 20% of the outstanding shares of New AspenTech common stock, Emerson Sub will have the right to designate only one director. The members of the New AspenTech board of directors not designated by Emerson Sub will be designated by the Nominating & Governance Committee of the New AspenTech board of directors. For so long as Emerson beneficially owns more than 50% of the outstanding shares of New AspenTech common stock, at Emerson Sub’s election, New AspenTech will avail itself of “controlled company” exemptions (in whole or in part) to the listing rules of Nasdaq, and accordingly it could be exempt from some of the exchange’s generally applicable listing requirements.   
+
+
+ 
+•
+ 
+ Consent Rights. Emerson Sub will have the right to consent to certain material actions of New AspenTech and its subsidiaries for so long as it maintains certain ownership percentages, including over certain mergers and acquisitions, sales of assets, incurrence of indebtedness, issuances of securities and the appointment and removal of the Chief Executive Officer of New AspenTech. In most instances, these consent rights terminate when Emerson ceases to beneficially own more than 40% of the outstanding shares of New AspenTech common stock.   
+
+
+ 
+•
+ 
+ Standstill Provisions. For a period of two years beginning on the Closing Date, Emerson and its subsidiaries will be subject to a customary standstill, with certain customary exceptions, including to permit Emerson to acquire shares of New AspenTech common stock constituting in the aggregate no more than 5% of the aggregate shares of New AspenTech common stock outstanding as of the Closing Date and pursuant to the Pre-Agreed Procedures (as described below).   
+
+
+ 
+•
+ 
+ Transfer Restrictions. For a period of two years beginning on the Closing Date (or until such time that Emerson beneficially owns less than 20% of the outstanding shares of New AspenTech common stock), Emerson and its subsidiaries may not transfer any shares of New AspenTech common stock unless approved by an ad-hoc committee of the New AspenTech board of directors consisting solely of independent directors (an “RPT Committee”).   
+
+
+ 
+•
+ 
+ Preemptive Rights and Percentage Maintenance Rights. Emerson will have certain rights to buy its pro rata share of securities issued by New AspenTech and to acquire additional securities of New AspenTech to maintain its then ownership percentages in the event of additional issuances of New AspenTech securities.   
+
+
+ 
+•
+ 
+ Pre-Agreed Procedures. Emerson will have the right to purchase additional equity securities of New AspenTech under certain circumstances pursuant to certain pre-agreed prices and procedures as set forth in the Stockholders Agreement, without the need for the approval of an RPT Committee. These procedures include Emerson’s ability to provide New AspenTech with financing in connection with any proposed acquisition transaction, and the pre-agreed pricing of such financing, if such financing is approved by an RPT Committee.   
+
+
+ 
+•
+ 
+ Buyout Transactions. For so long as Emerson beneficially owns more than 40% of the outstanding shares of New AspenTech common stock, any proposal by Emerson or any of its subsidiaries to acquire all of the shares of New AspenTech common stock held by stockholders that are not affiliated with Emerson or its subsidiaries must either be (at Emerson’s election) (i) subject to review, evaluation and approval of an RPT Committee or (ii) submitted for approval to the stockholders of New AspenTech, with a non-waivable condition that a majority of the shares held by stockholders that are not Emerson or its subsidiaries approve the transaction (or equivalent tender offer condition). 
+
+ 
+
+
+
+
+ 
+•
+ 
+ Related Party Transactions. For so long as Emerson beneficially owns at least 20% of the outstanding shares of New AspenTech common stock, any transaction not contemplated by the Transaction Agreement and the related ancillary agreements between New AspenTech or any of its subsidiaries, on the one hand, and Emerson or any of its subsidiaries (other than New AspenTech and its subsidiaries), on the other hand, shall be governed by a related party transactions policy, subject to certain exceptions, including for transactions pursuant to the Pre-Agreed Procedures, preemptive rights, percentage maintenance rights and transactions that are below certain thresholds.   
+
+
+ 
+•
+ 
+ Other Governance Rights. Material amendments of or waivers under the Transaction Agreement, the Stockholders Agreement and the other Transaction Documents (as defined in the Stockholders Agreement) require the prior approval of an RPT Committee.  The foregoing description of the Transaction Agreement and related documents does not purport to be complete, and is qualified in its entirety by reference to the full text of the Transaction Agreement and related documents, which are attached hereto as Exhibit 2.1 and are incorporated herein by reference. The Transaction Agreement and related documents have been attached to provide investors with information regarding their respective terms. They are not intended to provide any other factual information about Emerson or any of the other parties to the Transaction Agreement or any related documents. In particular, the assertions embodied in the representations and warranties contained in the Transaction Agreement are qualified by information in confidential disclosure schedules provided by the parties in connection with the signing of the Transaction Agreement. These confidential disclosure schedules contain information that modifies, qualifies and creates exceptions to the representations and warranties and certain covenants set forth in the Transaction Agreement. Moreover, certain representations and warranties in the Transaction Agreement were used for the purpose of allocating risk among the parties rather than establishing matters as facts and were made only as of the date of the Transaction Agreement (or such other date or dates as may be specified in the Transaction Agreement). Accordingly, the representations and warranties in the Transaction Agreement should not be relied upon as characterizations of the actual state of facts about Emerson or any of the parties to the Transaction Agreement.   
+
+
+Item 8.01
+ Other Events  On October 11, 2021, AspenTech and Emerson issued a joint press release announcing the Transactions. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein by reference.  Also on October 11, 2021, the materials attached hereto as Exhibits 99.2 through 99.9 were disseminated in connection with the announcement and are incorporated herein by reference.  ADDITIONAL INFORMATION AND WHERE TO FIND IT  In connection with the proposed transaction between AspenTech and Emerson, New AspenTech will prepare and file with the Securities and Exchange Commission (the “SEC”) a registration statement on Form S-4 that will include a combined proxy statement/prospectus of New AspenTech and AspenTech (the “Combined Proxy Statement/Prospectus”). AspenTech and New AspenTech will prepare and file the Combined Proxy Statement/Prospectus with the SEC, and AspenTech will mail the Combined Proxy Statement/Prospectus to its stockholders and file other documents regarding the proposed transaction with the SEC. This communication is not a substitute for any proxy statement, registration statement, proxy statement/prospectus or other documents AspenTech and/or New AspenTech may file with the SEC in connection with the proposed transaction. BEFORE MAKING ANY VOTING OR INVESTMENT DECISION, INVESTORS, SECURITY HOLDERS OF EMERSON AND SECURITY HOLDERS OF ASPENTECH ARE URGED TO READ CAREFULLY AND IN THEIR ENTIRETY THE COMBINED PROXY STATEMENT/PROSPECTUS WHEN IT BECOMES AVAILABLE AND THE OTHER DOCUMENTS THAT ARE FILED OR WILL BE FILED BY ASPENTECH OR NEW ASPENTECH WITH THE SEC, AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS TO THESE DOCUMENTS, IN CONNECTION WITH THE PROPOSED TRANSACTION, BECAUSE THESE DOCUMENTS CONTAIN OR WILL CONTAIN IMPORTANT INFORMATION ABOUT THE PROPOSED TRANSACTION AND RELATED MATTERS. Investors and security holders will be able to obtain free copies of the Combined Proxy Statement/Prospectus and other documents filed with the SEC by AspenTech and/or New AspenTech without charge through the website maintained by the SEC at www.sec.gov or by contacting the investor relations department of Emerson or AspenTech: 
+
+ 
+
+
+
+
+
+
+
+
+ Emerson
+  
+ AspenTech
+
+8000 West Florissant Avenue, P.O. Box 4100
+  
+20 Crosby Drive
+
+ St. Louis, MO 63136 www.emerson.com/en-us/investors Colleen Mettler, Vice President, Investor Relations (314) 553-2197 investor.relations@emerson.com 
+  
+ Bedford, MA 01730 http://ir.aspentech.com/ Brian Denyeau ICR Brian.Denyeau@icrinc.com 
+ NO OFFER OR SOLICITATION  This report is for informational purposes only and is not intended to and does not constitute an offer to subscribe for, buy or sell, the solicitation of an offer to subscribe for, buy or sell or an invitation to subscribe for, buy or sell any securities or the solicitation of any vote or approval in any jurisdiction pursuant to or in connection with the proposed transaction or otherwise, nor shall there be any sale, issuance or transfer of securities in any jurisdiction in contravention of applicable law. No offer of securities shall be made except by means of a prospectus meeting the requirements of Section 10 of the Securities Act of 1933, as amended, and otherwise in accordance with applicable law.  PARTICIPANTS IN THE SOLICITATION  Emerson, AspenTech, New AspenTech and certain of their respective directors and executive officers and other members of their respective management and employees may be deemed to be participants in the solicitation of proxies in connection with the proposed transaction. Information regarding the persons who may, under the rules of the SEC, be deemed participants in the solicitation of proxies in connection with the proposed transaction, including a description of their direct or indirect interests in the transaction, by security holdings or otherwise, will be set forth in the Combined Proxy Statement/Prospectus and other relevant materials when it is filed with the SEC. Information regarding the directors and executive officers of Emerson is contained in Emerson’s proxy statement for its 2021 annual meeting of stockholders, filed with the SEC on December 11, 2020, its Annual Report on Form 10-K for the year ended September 30, 2020, which was filed with the SEC on November 16, 2020 and certain of its Current Reports filed on Form 8-K. Information regarding the directors and executive officers of AspenTech is contained in AspenTech’s proxy statement for its 2021 annual meeting of stockholders, filed with the SEC on December 9, 2020, its Annual Report on Form 10-K for the year ended June 30, 2021, which was filed with the SEC on August 18, 2021 and certain of its Current Reports filed on Form 8-K. These documents can be obtained free of charge from the sources indicated above.  CAUTION CONCERNING FORWARD-LOOKING STATEMENTS  This communication contains “forward-looking” statements as that term is defined in Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended by the Private Securities Litigation Reform Act of 1995. All statements, other than historical facts, are forward-looking statements, including: statements regarding the expected timing and structure of the proposed transaction; the ability of the parties to complete the proposed transaction considering the various closing conditions; the expected benefits of the proposed transaction, such as improved operations, enhanced revenues and cash flow, synergies, growth potential, market profile, business plans, expanded portfolio and financial strength; the competitive ability and position of New AspenTech following completion of the proposed transaction; legal, economic and regulatory conditions; and any assumptions underlying any of the foregoing. Forward-looking statements concern future circumstances and results and other statements that are not historical facts and are sometimes identified by the words “may,” “will,” “should,” “potential,” “intend,” “expect,” “endeavor,” “seek,” “anticipate,” “estimate,” “overestimate,” “underestimate,” “believe,” “plan,” “could,” “would,” “project,” “predict,” “continue,” “target” or other similar words or expressions or negatives of these words, but not all forward-looking statements include such identifying words. Forward-
+
+ 
+
+
+
+looking statements are based upon current plans, estimates and expectations that are subject to risks, uncertainties and assumptions. Should one or more of these risks or uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those indicated or anticipated by such forward-looking statements. We can give no assurance that such plans, estimates or expectations will be achieved and therefore, actual results may differ materially from any plans, estimates or expectations in such forward-looking statements. Important factors that could cause actual results to differ materially from such plans, estimates or expectations include, among others: (1) that one or more closing conditions to the transaction, including certain regulatory approvals, may not be satisfied or waived, on a timely basis or otherwise, including that a governmental entity may prohibit, delay or refuse to grant approval for the consummation of the proposed transaction, may require conditions, limitations or restrictions in connection with such approvals or that the required approval by the stockholders of AspenTech may not be obtained; (2) the risk that the proposed transaction may not be completed in the time frame expected by Emerson, AspenTech or New AspenTech, or at all; (3) unexpected costs, charges or expenses resulting from the proposed transaction; (4) uncertainty of the expected financial performance of New AspenTech following completion of the proposed transaction; (5) failure to realize the anticipated benefits of the proposed transaction, including as a result of delay in completing the proposed transaction or integrating the industrial software business of Emerson with the business of AspenTech; (6) the ability of New AspenTech to implement its business strategy; (7) difficulties and delays in achieving revenue and cost synergies of New AspenTech; (8) inability to retain and hire key personnel; (9) the occurrence of any event that could give rise to termination of the proposed transaction; (10) potential litigation in connection with the proposed transaction or other settlements or investigations that may affect the timing or occurrence of the contemplated transaction or result in significant costs of defense, indemnification and liability; (11) evolving legal, regulatory and tax regimes; (12) changes in economic, financial, political and regulatory conditions, in the United States and elsewhere, and other factors that contribute to uncertainty and volatility, natural and man-made disasters, civil unrest, pandemics (e.g., the coronavirus (COVID-19) pandemic (the “COVID-19 pandemic”)), geopolitical uncertainty, and conditions that may result from legislative, regulatory, trade and policy changes associated with the current or subsequent U.S. administration; (13) the ability of Emerson, AspenTech and New AspenTech to successfully recover from a disaster or other business continuity problem due to a hurricane, flood, earthquake, terrorist attack, war, pandemic, security breach, cyber-attack, power loss, telecommunications failure or other natural or man-made event, including the ability to function remotely during long-term disruptions such as the COVID-19 pandemic; (14) the impact of public health crises, such as pandemics (including the COVID-19 pandemic) and epidemics and any related company or governmental policies and actions to protect the health and safety of individuals or governmental policies or actions to maintain the functioning of national or global economies and markets, including any quarantine, “shelter in place,” “stay at home,” workforce reduction, social distancing, shut down or similar actions and policies; (15) actions by third parties, including government agencies; (16) potential adverse reactions or changes to business relationships resulting from the announcement or completion of the transaction; (17) the risk that disruptions from the proposed transaction will harm Emerson’s and AspenTech’s business, including current plans and operations; (18) certain restrictions during the pendency of the acquisition that may impact Emerson’s or AspenTech’s ability to pursue certain business opportunities or strategic transactions; (19) Emerson’s, AspenTech’s and New AspenTech’s ability to meet expectations regarding the accounting and tax treatments of the proposed transaction; and (20) other risk factors as detailed from time to time in Emerson’s and AspenTech’s reports filed with the SEC, including Emerson’s and AspenTech’s annual report on Form 10-K, periodic quarterly reports on Form 10-Q, periodic current reports on Form 8-K and other documents filed with the SEC. These risks, as well as other risks associated with the proposed transaction, will be more fully discussed in the Combined Proxy Statement/Prospectus. While the list of factors presented here is, and the list of factors to be presented in the Combined Proxy Statement/Prospectus will be, considered representative, no such list should be considered to be a complete statement of all potential risks and uncertainties. Unlisted factors may present significant additional obstacles to the realization of forward-looking statements.  Any forward-looking statements speak only as of the date of this communication. Neither Emerson, AspenTech nor New AspenTech undertakes any obligation to update any forward-looking statements, whether as a result of new information or development, future events or otherwise, except as required by law. Readers are cautioned not to place undue reliance on any of these forward-looking statements. 
+
+ 
+
+
+
+
+Item 9.01
+ Financial Statements and Exhibits.  (d) Exhibits   
+
+
+
+
+
+
+ ExhibitNumber
+  
+ Description
+
+
+
+
+  2.1
+  
+Transaction Agreement and Plan of Merger, dated as of October 10, 2021, among Aspen Technology, Inc., Emerson Electric Co., EMR Worldwide Inc., Emersub CX, Inc. and Emersub CXI, Inc.*^
+
+
+
+
+99.1
+  
+Joint Press Release, dated October 11, 2021 
+
+
+
+
+99.2
+  
+Joint Investor Presentation 
+
+
+
+
+99.3
+  
+Transcript of Joint Investor Call 
+
+
+
+
+99.4
+  
+Letter from Antonio Pietri, CEO of AspenTech, to AspenTech Employees 
+
+
+
+
+99.5
+  
+Letter from Antonio Pietri, CEO of AspenTech, to AspenTech Customers 
+
+
+
+
+99.6
+  
+AspenTech Employee FAQ 
+
+
+
+
+99.7
+  
+AspenTech Social Media Posts 
+
+
+
+
+99.8
+  
+Transaction Microsite 
+
+
+
+
+99.9
+  
+Transcript of Video Message from Antonio Petri, CEO of AspenTech
+
+
+
+
+104
+  
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+  
+
+
+*
+ Schedules to the Transaction Agreement and Plan of Merger have been omitted pursuant to Item 601(b)(2) of Regulation S-K. The registrant will furnish copies of any such schedules to the U.S. Securities and Exchange Commission upon request. 
+
+
+^
+ Portions of this exhibit have been redacted in compliance with Regulation S-K Item 601(b)(10). 
+
+ 
+
+
+SIGNATURES  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.   
+
+
+
+
+
+
+ASPEN TECHNOLOGY, INC.
+
+
+
+
+By:
+ 
+ /s/ Frederic G. Hammond
+
+Name:
+ 
+Frederic G. Hammond
+
+Title:
+ 
+Senior Vice President, General Counsel and Secretary
+ Dated: October 12, 2021 
+

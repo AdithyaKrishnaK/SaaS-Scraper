@@ -1,0 +1,142 @@
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION Washington, D.C. 20549    Form 8-K    Current Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 Date of Report (Date of earliest event reported): February 4, 2020     Pegasystems Inc.  (Exact name of registrant as specified in its charter)    Commission File Number: 1-11859
+
+
+
+
+
+
+ Massachusetts
+ 
+ 04-2787865
+
+ (State or other jurisdiction of incorporation)
+ 
+ (IRS Employer Identification No.)
+
+
+
+
+ 1 Rogers Street, Cambridge, Massachusetts 02142
+
+ (Address of principal executive offices, including zip code) 617-374-9600 (Registrant’s telephone number, including area code) Not Applicable (Former name or former address, if changed since last report)    Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+
+
+ ☐ 
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+
+
+ ☐ 
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+
+
+ ☐ 
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+
+
+ ☐ 
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) Securities registered pursuant to Section 12(b) of the Act:
+
+
+
+
+
+
+
+
+ Title of each class
+ 
+ Trading Symbol(s)
+ 
+ Name of each exchange on which registered
+
+  Common Stock, $.01 par value per share
+ 
+  PEGA
+ 
+  NASDAQ Global Select Market Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  ☐ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐          
+ 
+
+
+
+
+Item 5.02. 
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers   (e)    On February 4, 2020, the Compensation Committee of the Board of Directors of Pegasystems Inc. (the “Company”) approved the 2020 Section 16 Officer/FLT Member Corporate Incentive Compensation Plan (the “Incentive Plan”) for the executive officers of the Company (the “Executive Officers”).  The Incentive Plan covers the period from January 1, 2020 through December 31, 2020 (the “Incentive Period”). The Incentive Plan is designed to establish a pool of funds to be available for making bonus payments to the Executive Officers if the Company achieves certain performance goals (the “Corporate Goals”) during the Incentive Period. For purposes of the Incentive Plan, the Corporate Goals consist of financial goals weighted at 70% and strategic goals weighted at 30%. The percentage achievement of the Corporate Goals (the “Funding Percentage”) determines the extent to which the Incentive Plan is funded, except that if the Funding Percentage is less than 70% then the Incentive Plan will not be funded at all. If the Funding Percentage is greater than 100%, the Company may fund an enhanced incentive as determined by the Board in its discretion. Once the Funding Percentage has been determined, the actual incentive payment for each Executive Officer is conditioned on his or her continued active employment with the Company and may be adjusted based on their individual performance.  The Company permits each Executive Officer to elect to receive a portion of his or her 2020 bonus equal to 50% of his or her target Incentive Plan payment in the form of restricted stock units (“RSUs”) instead of in cash. For this purpose, RSUs will be calculated based upon 85% of their fair market value on the grant date. If elected, the equity grant will occur during the open trading period following the public release of the Company’s 2019 financial results and is subject to vest 100% on or about the Incentive Plan payout date in 2021 for all participants. Vesting is conditioned upon threshold funding of the Incentive Plan and, with respect to each Executive Officer, on his or her continued active employment with the Company and their individual performance. If these conditions are not met, the equity grant cannot be exercised by the Executive Officer and will expire.  The foregoing summary description of the Incentive Plan is qualified in its entirety by reference to Exhibit 99.1 to this Current Report on Form 8-K.  
+
+
+Item 9.01. 
+Financial Statements and Exhibits  
+
+
+
+
+
+
+ 
+
+ 
+ 99.1  
+ 
+ 
+  2020 Section 16 Officer/FLT Member Corporate Incentive Compensation Plan       
+
+ 
+
+ Signature(s)  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized. 
+
+
+
+
+
+
+
+
+ 
+
+  
+ 
+  
+ 
+  
+ 
+ Pegasystems Inc.   
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ Date: February 7, 2020  
+ 
+  
+ 
+ By:  
+ 
+ /s/ Matthew J. Cushing   
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+  
+ 
+  
+ 
+  
+ 
+ Matthew J. Cushing   
+
+  
+ 
+  
+ 
+  
+ 
+ Vice President, Chief Commercial Officer, General Counsel and Secretary      
+
