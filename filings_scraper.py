@@ -17,7 +17,7 @@ cik_df = pandas.read_csv('csv/res.csv', usecols=['name','cik'])
 
 for company in companies_list:
     [record] = cik_df.index[cik_df['name'] == company]
-    cik = str(cik_df.at[record,'cik'])
+    cik = str(int(cik_df.at[record,'cik']))
     if pandas.isna(cik):
         print("CIK not available")
         continue
