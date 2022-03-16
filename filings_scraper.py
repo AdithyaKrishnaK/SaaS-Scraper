@@ -10,9 +10,9 @@ import random
 BASE_URL_CIK = 'https://data.sec.gov/submissions/'
 BASE_URL_FORM = 'https://www.sec.gov/Archives/edgar/data/'
 
-companies_list = ['VARONIS SYSTEMS INC']
+companies_list = ['VEEVA SYSTEMS INC']
 
-cik_df = pandas.read_csv('csv/res.csv', usecols=['name','cik'])
+cik_df = pandas.read_csv('result/res.csv', usecols=['name','cik'])
 
 
 for company in companies_list:
